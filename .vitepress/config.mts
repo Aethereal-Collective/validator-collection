@@ -1,28 +1,32 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "æthereal",
-  description: "an unique crypto collective since '21, based in Indonesia.",
-  themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
+	title: "æthereal",
+	description: "an unique crypto collective since '21, based in Indonesia.",
+	head: [["link", { rel: "icon", href: "/favicon.ico" }]],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+	themeConfig: {
+		// https://vitepress.dev/reference/default-theme-config
+		nav: [
+			{ text: "Home", link: "/" },
+			{ text: "Validator", link: "/chain/mainnet/" },
+		],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
-  }
-})
+		sidebar: [
+			{
+				text: "Chain",
+				items: [
+					{ text: "Mainnet", link: "/chain/mainnet/", collapsed: true, items: [{ text: "Elixir", link: "/chain/mainnet/elixir/" }] },
+					{ text: "Testnet", link: "/chain/testnet/" },
+				],
+			},
+		],
+
+		socialLinks: [
+			{ icon: "github", link: "https://github.com/Aethereal-Collective" },
+			{ icon: "x", link: "https://x.com/aethereal_co" },
+			{ icon: "discord", link: "https://discord.gg/aetherealco" },
+		],
+	},
+});
