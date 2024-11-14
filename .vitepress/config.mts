@@ -18,7 +18,7 @@ export default defineConfig({
 				text: "Chain",
 				items: [
 					{ text: "Mainnet", link: "/chain/mainnet/", collapsed: true, items: [{ text: "Elixir", link: "/chain/mainnet/elixir/" }] },
-					{ text: "Testnet", link: "/chain/testnet/" },
+					{ text: "Testnet", link: "/chain/testnet/", collapsed: true, items: [{ text: "Dill", link: "/chain/testnet/dill/" }] },
 				],
 			},
 		],
