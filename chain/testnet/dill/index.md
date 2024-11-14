@@ -6,7 +6,7 @@
 
 # Dill
 
-A Modular DPoS Network Built to Power Orderbook Liquidity
+high-scalable and highly secure next-generation DA (Data Availability) network.
 
 ## Guide
 
