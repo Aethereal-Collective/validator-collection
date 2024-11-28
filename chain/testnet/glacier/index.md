@@ -36,7 +36,7 @@ bridge BNB to opBNB here: https://opbnb-testnet-bridge.bnbchain.org/deposit
 
 ## Run A Node
 ```bash
-docker run -d -e PRIVATE_KEY=$YOUR_PRIVATE_KEY --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2
+docker run -d -e PRIVATE_KEY=YOUR_PRIVATE_KEY --name glacier-verifier docker.io/glaciernetwork/glacier-verifier:v0.0.2
 ```
 
 ## Optional
