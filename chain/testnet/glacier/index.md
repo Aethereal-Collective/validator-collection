@@ -29,11 +29,13 @@ docker --version
 BNB Testnet Faucet:
 
 [Bnbchain](https://www.bnbchain.org/en/testnet-faucet)
+
 [Discord](https://discord.com/invite/bnbchain)
 
 opBNB Testnet Faucet:
 
 [Thirdweb](https://thirdweb.com/opbnb-testnet)
+
 bridge BNB to opBNB [here](https://opbnb-testnet-bridge.bnbchain.org/deposit) 
 
 ## Run A Node
