@@ -13,7 +13,7 @@
 | **RAM**                   | 2GB RAM                         | 4GB+ RAM                          |
 | **Internet Speed**        | 4 MBit/sec download             | 8+ MBit/sec download              |
 
-## Install Prerequisites (You can skip the "Install Prerequisites" if you have already installed Docker.)
+## Install Prerequisites (You can skip the "Install Prerequisites" if you have already installed.)
 ```bash
 sudo apt update && sudo apt upgrade
 sudo apt install curl tar wget aria2 clang pkg-config libssl-dev jq build-essential
