@@ -27,12 +27,14 @@ docker --version
 ```
 ## Claim BNB Faucet 
 BNB Testnet Faucet:
-https://www.bnbchain.org/en/testnet-faucet
-https://discord.com/invite/bnbchain
+
+[Bnbchain](https://www.bnbchain.org/en/testnet-faucet)
+[Discord](https://discord.com/invite/bnbchain)
 
 opBNB Testnet Faucet:
-https://thirdweb.com/opbnb-testnet
-bridge BNB to opBNB here: https://opbnb-testnet-bridge.bnbchain.org/deposit
+
+[Thirdweb](https://thirdweb.com/opbnb-testnet)
+bridge BNB to opBNB [here](https://opbnb-testnet-bridge.bnbchain.org/deposit) 
 
 ## Run A Node
 ```bash
@@ -41,4 +43,5 @@ docker run -d -e PRIVATE_KEY=YOUR_PRIVATE_KEY --name glacier-verifier docker.io/
 
 ## Optional
 Complete [galxe task](https://app.galxe.com/quest/glacierlabs/GChNBtVG6A) 
+
 Check node status https://testnet.nodes.glacier.io/address/youraddress
