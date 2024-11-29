@@ -104,4 +104,4 @@ then run the docker container again like in step 2.
 
 ## Interactive Guide
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GRuMWwr7jFs?si=7ie5TWvoSaWitwSZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nimx0FNZcsg?si=eGcL95CFOfHod9sB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

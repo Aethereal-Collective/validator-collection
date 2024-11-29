@@ -27,6 +27,7 @@ export default defineConfig({
 							{ text: "Waku", link: "/chain/testnet/waku/" },
 							{ text: "Glacier", link: "/chain/testnet/glacier/" },
 							{ text: "Multiple", link: "/chain/testnet/multiple/" },
+							{ text: "Nexus", link: "/chain/testnet/nexus/" },
 						],
 					},
 				],
