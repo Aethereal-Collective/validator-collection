@@ -28,6 +28,7 @@ export default defineConfig({
 							{ text: "Glacier", link: "/chain/testnet/glacier/" },
 							{ text: "Multiple", link: "/chain/testnet/multiple/" },
 							{ text: "Nexus", link: "/chain/testnet/nexus/" },
+							{ text: "InitVerse", link: "/chain/testnet/initverse/" },
 						],
 					},
 				],
@@ -37,7 +38,7 @@ export default defineConfig({
 		socialLinks: [
 			{ icon: "github", link: "https://github.com/Aethereal-Collective" },
 			{ icon: "x", link: "https://x.com/aethereal_co" },
-			{ icon: "discord", link: "https://discord.gg/aetherealco" },
+			{ icon: "discord", link: "https://discord.gg/aethereal" },
 		],
 	},
 });
