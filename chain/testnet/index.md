@@ -8,3 +8,4 @@
 | [Multiple](/chain/testnet/multiple/)   | v1.0.0  | :white_check_mark: |
 | [Nexus](/chain/testnet/nexus/)         | v0.3.7  |        :x:         |
 | [InitVerse](/chain/testnet/initverse/) | v1.0.0  | :white_check_mark: |
+| [Privasea](/chain/testnet/privasea/)   | v1.0.0  | :white_check_mark: |

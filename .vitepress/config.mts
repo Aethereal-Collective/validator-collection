@@ -29,6 +29,7 @@ export default defineConfig({
 							{ text: "Multiple", link: "/chain/testnet/multiple/" },
 							{ text: "Nexus", link: "/chain/testnet/nexus/" },
 							{ text: "InitVerse", link: "/chain/testnet/initverse/" },
+							{ text: "Privasea", link: "/chain/testnet/privasea/" },
 						],
 					},
 				],
