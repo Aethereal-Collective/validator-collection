@@ -48,8 +48,8 @@ You must Join domain by accessing https://www.gaianet.ai/setting/nodes
 - huggingface.gaia.domains
 
 ### Auto-Throughputs-Gaianet
-[Python](https://github.com/Aethereal-Collective/Auto-Throughputs-Gaianet)
-[GoLang](https://github.com/envyst/Auto-Throughputs-Gaianet)
+- [Python](https://github.com/Aethereal-Collective/Auto-Throughputs-Gaianet)
+- [GoLang](https://github.com/envyst/Auto-Throughputs-Gaianet)
 
 ### Support
 Stay connected and be part of our community:
