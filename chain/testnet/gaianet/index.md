@@ -8,7 +8,7 @@
 -   **Internet**: 100 Mbps
 
 [Register ](https://gaianet.ai/reward?invite_code=RxC2QK)
-Connect wallet -> Click Gaia XP -> Bind Code RxC2QK (optional) -> Complete the task
+Connect wallet -> Click Gaia XP -> Bind Code `RxC2QK` (optional) -> Complete the task
 
 ### Step 1: Install GaiaNet CLI
 ```sh
