@@ -30,6 +30,7 @@ export default defineConfig({
 							{ text: "Nexus", link: "/chain/testnet/nexus/" },
 							{ text: "InitVerse", link: "/chain/testnet/initverse/" },
 							{ text: "Privasea", link: "/chain/testnet/privasea/" },
+							{ text: "Gaianet", link: "/chain/testnet/gaianet/" },
 						],
 					},
 				],
