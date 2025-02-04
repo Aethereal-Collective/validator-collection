@@ -1,4 +1,4 @@
-# Gaianet
+# Gaianet 
 
 ### Hardware Specification ( Minimum )
 
